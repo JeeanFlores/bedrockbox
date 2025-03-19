@@ -1,0 +1,10 @@
+name: BedrockBox
+version: ${plugin.version}
+main: io.github.jeeanflores.bedrockBox.TntChallengePlugin
+author: JeanFlores
+api-version: '1.21'
+commands:
+  tntchallenge:
+    aliases:
+      - tc
+
